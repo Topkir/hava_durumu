@@ -7,7 +7,7 @@ Bu hava durumu uygulamasının temel amacı, kullanıcıların her zaman güncel
 
 Özellikler:
 
-Anlık Hava Durumu Bilgileri: Uygulama, seçilen bir konum için anlık sıcaklık, hava durumu durumu (örneğin, güneşli, yağmurlu, karlı) gibi temel hava durumu bilgilerini sunar.
+-Anlık Hava Durumu Bilgileri: Uygulama, seçilen bir konum için anlık sıcaklık, hava durumu durumu (örneğin, güneşli, yağmurlu, karlı) gibi temel hava durumu bilgilerini sunar.
 
 Konum Seçme ve Arama: Kullanıcılar, uygulama içinde konum seçebilir veya arama özelliğini kullanarak herhangi bir şehrin hava durumu bilgilerini alabilir. Bu sayede kullanıcılar, dünya genelindeki farklı bölgelerin hava durumu bilgilerini kolayca keşfedebilir.
 
