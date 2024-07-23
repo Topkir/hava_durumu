@@ -1,3 +1,5 @@
+[havaDurumu.webm](https://github.com/user-attachments/assets/ef33327f-9ff8-40cb-9d56-66eda966fb88)
+
 Hava Durumu Uygulaması:
 Bu hava durumu uygulaması, günlük hava durumu bilgilerini kullanıcılara sunan basit ve kullanıcı dostu bir mobil uygulamadır. Uygulama, hava durumu verilerini harici bir hava durumu API'sıyla iletişim kurarak çeker ve görselleştirerek kullanıcılara sunar. Ayrıca, konum izni alarak cihazın bulunduğu anlık konumu kullanarak hava durumu bilgilerini otomatik olarak güncelleyebilir.
 
